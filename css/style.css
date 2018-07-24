@@ -141,6 +141,7 @@ footer{
     
     blockquote{
         font-size:  1.2em;
+        text-align: center;
     }
     
     #signup .container h2{
@@ -159,6 +160,10 @@ footer{
     #newsletter-input{
         font-size: 80%;
         padding: 0.2rem 0.5rem;
+    }
+    
+    .col-md-4{
+        text-align: center;
     }
     
 }
