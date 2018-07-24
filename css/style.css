@@ -135,7 +135,7 @@ footer{
         letter-spacing: -2px;
     }
     
-     .cover-text .lead{
+    .cover-text .lead{
         font-size: 1.2em;
     }
     
@@ -161,9 +161,15 @@ footer{
         font-size: 80%;
         padding: 0.2rem 0.5rem;
     }
+
+/* Fix resizing bug */
     
     .col-md-4{
         text-align: center;
+    }
+    
+    section{
+        padding: 50px;
     }
     
 }
