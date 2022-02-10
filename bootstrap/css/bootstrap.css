@@ -2548,11 +2548,11 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5);
 }
 
-.btn-danger.disabled, .btn-danger:disabled {
-  color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
-}
+/* .btn-danger.disabled, .btn-danger:disabled { */
+/*   color: #fff; */
+/*   background-color: #dc3545; */
+/*   border-color: #dc3545; */
+/* } */
 
 .btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active,
 .show > .btn-danger.dropdown-toggle {
