@@ -58,30 +58,7 @@ body,
 }
 
 
-/* #why-us { */
-/*     position: relative; */
-/*     overflow: hidden; */
-/* } */
-
-/* .reasons { */
-/*     float: left; */
-/*     width: 10%; */
-/*     margin: 1% 1% 45px 1%; */
-/* } */
-
-/* .desc { */
-/*     color: black; */
-/*     text-align: center; */
-/*     position: absolute; */
-/*     bottom: 0px; */
-/* } */
-
-/* .reasons img { */
-/*     width: 100%; */
-/*     display: block; */
-/* } */
-
-#why-us > div > div > div > div > h4 {
+#why-us > div > div > div > h4 {
     color: black;
     text-align: center;
     font-weight: bold;
@@ -134,10 +111,10 @@ body,
 }
 
 .img-h3 > div {
-    width: 40%;
+    width: 50%;
     display: flex;
     align-items: center;
-    margin-bottom: 1cm;
+    margin-bottom: 0.5cm;
     margin-top: 0.5cm;
 }
 
@@ -188,7 +165,21 @@ body,
 }
 
 #testimonial{
+    color: #44E0D0;
     background: #222;
+}
+
+#testimonial .separation {
+    color: white;
+}
+
+#testimonial .deepwive {
+    color: #44E0D0;
+}
+
+#testimonial > div {
+    margin-top: 1cm;
+    margin-bottom: 1cm;
 }
 
 #demo{
