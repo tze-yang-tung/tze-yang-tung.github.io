@@ -35,6 +35,10 @@ body,
     font-size: 24px;
 }
 
+.img-h2 {
+    text-align: center;
+}
+
 #navbar-theme{
     background: rgba(0, 0, 0, 0.5);
 }
