@@ -72,6 +72,7 @@ body,
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 0cm;
 }
 
 .img-h1 > div {
@@ -89,7 +90,7 @@ body,
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 80px;
+    margin-bottom: 3cm;
 }
 
 .img-h2 > div {
@@ -113,8 +114,8 @@ body,
     width: 50%;
     display: flex;
     align-items: center;
-    margin-bottom: 30px;
-    margin-top: 30px;
+    margin-bottom: 0.5cm;
+    margin-top: 0.5cm;
 }
 
 .img-h3 > div > img {
@@ -129,6 +130,7 @@ body,
     display: flex;
     flex-direction: column;
     align-items: left;
+    margin-bottom: 0cm;
 }
 
 .img-h5 > div {
@@ -149,7 +151,7 @@ body,
 
 
 #navbar-theme{
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(190, 255, 248, 0.4);
 }
 
 #navbar-theme a{
@@ -176,8 +178,8 @@ body,
 }
 
 #testimonial > div {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
 }
 
 #demo{
@@ -196,23 +198,8 @@ body,
     font-weight: bold;
 }
 
-#use-cases > div > div > div > p {
-    font-size: 14pt;
-}
-
 #signup{
-    align-items: center;
-    text-align: center;
     color: black;
-}
-
-#signup > div > p{
-    margin-bottom: 30px;
-}
-
-#signup > div > div > div > div > img{
-    margin-bottom: 30px;
-    width: 25%;
 }
 
 blockquote{
@@ -264,10 +251,6 @@ h2+p{
 
 #team > div > h2 {
     color: #0B1380;
-}
-
-#team > div > div > div > img {
-    margin-bottom: 20px;
 }
 
 #team > div > div > div > h4 {
