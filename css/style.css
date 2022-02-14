@@ -135,12 +135,12 @@ body,
 }
 
 .img-h3 > #drone{
-    margin-top: 40px;
+    margin-top: 45px;
     margin-bottom: 52px;
 }
 
 .img-h3 > #latency{
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .img-h3 > #dnn{
@@ -149,13 +149,13 @@ body,
 }
 
 .img-h3 > #nvidia{
-    margin-top: 40px;
-    margin-bottom: 53px;
+    margin-top: 47px;
+    margin-bottom: 55px;
 }
 
 .img-h3 > #jetson{
-    margin-top: 40px;
-    margin-bottom: 39px;
+    margin-top: 33px;
+    margin-bottom: 35px;
 }
 
 .img-h5 {
