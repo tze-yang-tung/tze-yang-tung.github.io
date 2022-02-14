@@ -68,6 +68,11 @@ body,
     vertical-align: botom;
 }
 
+#why-us > div > div > div > div > div {
+    /* margin-top: 50px; */
+    margin-bottom: 50px;
+}
+
 .img-h1 {
     display: flex;
     flex-direction: column;
@@ -75,7 +80,7 @@ body,
 }
 
 .img-h1 > div {
-    width: 70%;
+    width: auto;
     height: 70%;
     display: flex;
     align-items: center;
@@ -83,6 +88,10 @@ body,
 
 .img-h1 > div > img {
     width: 100%;
+}
+
+.img-h1 > #signup-logo {
+    margin-bottom: 40px;
 }
 
 .img-h2 {
@@ -123,6 +132,30 @@ body,
 
 .img-h3 > h3 {
     text-align: center;
+}
+
+.img-h3 > #drone{
+    margin-top: 40px;
+    margin-bottom: 52px;
+}
+
+.img-h3 > #latency{
+    margin-bottom: 40px;
+}
+
+.img-h3 > #dnn{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.img-h3 > #nvidia{
+    margin-top: 40px;
+    margin-bottom: 53px;
+}
+
+.img-h3 > #jetson{
+    margin-top: 40px;
+    margin-bottom: 39px;
 }
 
 .img-h5 {
@@ -175,7 +208,7 @@ body,
     color: #44E0D0;
 }
 
-#testimonial > div {
+#testimonial > div > div > div > div > div {
     margin-top: 50px;
     margin-bottom: 50px;
 }
