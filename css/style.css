@@ -73,6 +73,13 @@ body,
     margin-bottom: 50px;
 }
 
+.video {
+    width: 100%;
+    height: auto;
+    min-height: 400px;
+    overflow: hidden;
+}
+
 .img-h1 {
     display: flex;
     flex-direction: column;
