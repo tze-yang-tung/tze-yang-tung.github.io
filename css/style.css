@@ -299,7 +299,7 @@ h2+p{
     background-size: cover;
     text-align: center;
     color: #44E0D0;
-    text-shadow: 1px 1px #333;
+    /* text-shadow: 1px 1px #333; */
 }
 
 #team > div > h2 {
@@ -312,9 +312,14 @@ h2+p{
 
 #team > div > div > div > h4 {
     color: black;
+    font-weight: bold;
 }
 
 #team > div > div > div > p {
+    color: black;
+}
+
+#team > div > div > div > h5 {
     color: black;
 }
 
