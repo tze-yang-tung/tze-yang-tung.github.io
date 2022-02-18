@@ -8,7 +8,7 @@ body,
 }
 
 .cover{
-    background: url('../img/cover_bg.jpg') top left no-repeat;
+    background: url('../img/cover_bg-min.jpg') top left no-repeat;
     background-size: cover;
     display: table;
     width: 100%;
