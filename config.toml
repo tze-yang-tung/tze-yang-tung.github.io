@@ -1,7 +1,7 @@
 baseURL = 'https://tze-yang-tung.github.io/'
 languageCode = 'en-us'
 title = 'Tze-Yang Tung'
-theme = 'personal-web'
+theme = 'personal-web-theme'
 copyright="© Tze-Yang Tung"
 googleAnalytics = ""
 enableEmoji=true
