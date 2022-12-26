@@ -1,4 +1,4 @@
-baseURL = 'http://tze-yang-tung.github.io'
+baseURL = 'https://tze-yang-tung.github.io/'
 languageCode = 'en-us'
 title = 'Tze-Yang Tung'
 theme = 'personal-web'
