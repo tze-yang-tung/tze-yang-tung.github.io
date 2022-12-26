@@ -1,0 +1,103 @@
+baseURL = 'http://tze-yang-tung.github.io'
+languageCode = 'en-us'
+title = 'Tze-Yang Tung'
+theme = 'personal-web'
+copyright="© Tze-Yang Tung"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Hi, I'm Tze-Yang :wave:"
+  sub = "I'm a Research Scientist and Entrepreneur"
+
+[params.main]
+  latestPublishHeader = "My Latest Project"
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+# [params.sections]
+#   # Define how your sections will be called
+#   # when automatically pulled. For instance in the 404 page
+#   post = "article"
+#   portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '/images/side_bar.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/dp.jpg" # - default "/images/edna-west.jpg"
+
+[params.assets]
+  favicon = "/favicon/favicon.ico"
+  customCSS = ""
+
+[params.social]
+  googlescholar = "https://scholar.google.co.uk/citations?user=gcoILEcAAAAJ&hl=en"
+  github = "https://github.com/r0ymanesco"
+  linkedin = "https://www.linkedin.com/in/tze-yang-tung"
+
+[params.contact]
+  email = "tzeyang.tung.work@gmail.com"
+  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  title = "home"
+  url = "/"
+  weight = -120
+
+# [[menu.main]]
+#   identifier = "portfolio"
+#   name = "Publications"
+#   title = "Portfolio"
+#   url = "/portfolio/"
+#   weight = -110
+
+[[menu.main]]
+  identifier = "publications"
+  name = "Publications"
+  title = "Publications"
+  url = "/post/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "about"
+  name = "Achievements"
+  title = "Achievements"
+  url = "/about/"
+  weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
