@@ -6,7 +6,8 @@ description: Welcome to my personal website
 Hello, my name is Tze-Yang, I'm a Research Scientist and Entrepreneur. 
 My research lies primarily in the junction between machine learning and communications that enable machine learning. 
 In particular, I am interested in the emerging **semantic and goal-oriented communications** paradigm and its relations to machine learning applications. 
-I believes that a tight integration between machine learning and communications is essential for future AI developments.
+I believe that a tight integration between machine learning and communications is essential for future AI developments.
+I also write about topics that I am interested in at my [**personal notebook**](https://r0ymanesco.github.io/my-notes/)
 
 
 ## Professional Career
