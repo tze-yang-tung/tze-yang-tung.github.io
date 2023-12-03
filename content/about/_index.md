@@ -33,3 +33,6 @@ To view my CV, please click [**here**](/CV.pdf)
 
 7. 2022 IEEE SPAWC Workshop, *Deep-Learning-Aided Wireless Video Transmission*.
 
+8. 2023 IEEE ICC Symposium, *Deep Joint Source-Channel and Encryption Coding: Secure Semantic Communications*.
+
+9. 2023 Invited talk at the Department of Electrical Engineering at the National Taiwan University, *Semantic and Effective Communications*.

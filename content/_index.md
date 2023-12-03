@@ -3,11 +3,9 @@ title: HOME
 description: Welcome to my personal website
 ---
 
-Hello, my name is Tze-Yang, I'm a Research Scientist and Entrepreneur. 
-My research lies primarily in the junction between machine learning and communications that enable machine learning. 
-In particular, I am interested in the emerging **semantic and goal-oriented communications** paradigm and its relations to machine learning applications. 
-I believe that a tight integration between machine learning and communications is essential for future AI developments.
-I also write about topics that I am interested in at my [**personal notebook**](https://r0ymanesco.github.io/my-notes/)
+Hello, my name is Tze-Yang, I'm a Research Scientist and Entrepreneur, currently working at Nokia Bell Labs.
+My work is primarily concerned with developing the interfaces and communication frameworks to connect machine learning agents in distributed systems. 
+The greatest impact of my research is the application of traditional concepts in information theory to create the underlying formalism for how AI systems can learn to communicate effectively and efficiently.
 
 
 ## Professional Career
@@ -15,10 +13,8 @@ I also write about topics that I am interested in at my [**personal notebook**](
 ### Member of Technical Staff
 **Nokia Bell Labs**
 
-I currently work at Nokia Bell Labs, in the Radio Systems Research Lab. 
-My research primarily focuses on applied machine learning in wireless communications and multi-agent systems. 
-Specifically, my work focuses on deep learning driven joint source-channel coding and multi-agent collaboration and communications. 
-The greatest impact of my research is how these traditional concepts can create the underlying formalism for **semantic and goal-oriented communication**, driving future 6G telecommunications. 
+My work is primarily concerned with developing the interfaces and communication frameworks to connect machine learning agents in distributed systems. 
+The greatest impact of my research is the application of traditional concepts in information theory to create the underlying formalism for how AI systems can learn to communicate effectively and efficiently.
 
 
 ### CEO/Co-founder
